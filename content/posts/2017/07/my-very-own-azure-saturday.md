@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "My Very Own Azure Saturday"
 date: 2017-07-03
 tags: [ "Cloud", "Azure", "Microsoft" ]
