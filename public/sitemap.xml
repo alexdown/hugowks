@@ -3,30 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://alexdown.github.io/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/mobile-banking/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/posts/2016/12/neat/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/posts/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/review/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/startup/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/ui/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexdown.github.io/tags/fintech/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://alexdown.github.io/posts/2016/01/better-octopus/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://alexdown.github.io/tags/api/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alexdown.github.io/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alexdown.github.io/posts/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alexdown.github.io/tags/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

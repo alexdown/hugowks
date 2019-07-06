@@ -1,2 +1,2 @@
 # Build the project.
-hugo --theme=redlounge --buildDrafts server
+hugo --theme=redlounge --buildDrafts --buildFuture --cleanDestinationDir server
