@@ -17,4 +17,14 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:alexdown/alexdown.github.io.git master
+# used to be this
+# git subtree push --prefix=public git@github.com:alexdown/alexdown.github.io.git master
+# now a more pragmatic..
+cp -r public ../alexdown.github.io
+cd ../alexdown.github.io
+git add -A
+git commit -m "$msg"
+git push origin master
+
+# go back
+cd -
