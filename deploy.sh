@@ -7,6 +7,7 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 hugo --theme=redlounge --cleanDestinationDir 
 
 # Add changes to git.
+git add .
 git add -A
 
 # Commit changes.
@@ -24,7 +25,7 @@ git push origin master
 cp -r public ../alexdown.github.io
 cd ../alexdown.github.io
 git add -A
-git commit -m "$msg"
+git commit -m "publishing $msg"
 git push origin master
 
 # go back
