@@ -6,10 +6,46 @@
     <description>Recent content on Alessio Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alessiobasso.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://alessiobasso.com/speaking/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiobasso.com/speaking/</guid>
+      <description>What I usually talk about technology topics, usually whatever interests me at the time.
+Right now it&amp;rsquo;s:
+ mobile payments online payments digital wallets cloud (specifically monitoring and alerting) china tech  Where Internal company events, local meetups, regional or global conferences&amp;hellip;
+How Just ask me via email :)
+History Some examples for which there is an online trail&amp;hellip;
+ July 2019, Microsoft Mechanics - &amp;ldquo;How we built it? PayMe from HSBC&amp;rdquo; (video)</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://alessiobasso.com/profile/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiobasso.com/profile/</guid>
+      <description>Who am I Alessio is the Chief Architect and CTO of PayMe from HSBC, a Social Payments app for the Hong Kong market.
+Prior to that, as Lead Solution Architect - Mobile Payments, he worked with OEM partners on Apple Pay, Samsung Pay, HCE wallets, as well as on innovation projects involving chatbots, facial recognition, transaction data and social media (WeChat, Facebook messenger) integration, mostly focussing on the Pearl River Delta/Greater China market.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s chat about WeChat… one year later</title>
+      <link>https://alessiobasso.com/posts/2016/12/wechat-oneyearlater/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiobasso.com/posts/2016/12/wechat-oneyearlater/</guid>
+      <description>Almost a year ago I started working with WeChat… I prepared a small intro, but did not share it widely back then.
+This evening I presented it - updated- to the Hong Kong codeaholics meetup.
+Enjoy!
+ When we talk about &amp;ldquo;WeChat&amp;rdquo; (or &amp;ldquo;WeiXin&amp;rdquo;, 微信), most think of one of many smartphone apps used to chat. And this is true - as the app&amp;rsquo;s main window contains a list of your friends&amp;rsquo; contacts (slide 3).</description>
+    </item>
     
     <item>
       <title>Neat</title>

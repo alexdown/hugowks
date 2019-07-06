@@ -4,7 +4,82 @@
   
   <url>
     <loc>https://alessiobasso.com/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/speaking/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/bio/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/me/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/profile/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/speaker/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/speaking/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/profile/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/api/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/posts/2016/12/wechat-oneyearlater/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/posts/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/wechat/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/tags/platform/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,12 +95,6 @@
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alessiobasso.com/tags/review/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -33,12 +102,6 @@
   
   <url>
     <loc>https://alessiobasso.com/tags/startup/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,12 +124,6 @@
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/api/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alessiobasso.com/tags/contactless/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -79,20 +136,8 @@
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/platform/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alessiobasso.com/posts/2015/12/debunking-wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/wechat/</loc>
-    <lastmod>2015-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

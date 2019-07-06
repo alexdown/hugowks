@@ -75,3 +75,7 @@ That’s what WeChat is. How to use it, I’ll leave it to your imagination!
 
 <a name="ps"></a>
 __PS:__ I wrote this piece after reading an article that — although nice read — was… a bit hyperbolic in some parts. See if you can find the hidden link! ;)
+
+---
+
+This post have been reposted on medium: https://medium.com/@alxdwn/debunking-wechat-e5805e358f8
