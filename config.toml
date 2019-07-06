@@ -1,0 +1,32 @@
+baseurl = "http://alexdown.github.io/"
+languageCode = "en-uk"
+
+title = "Alessio Basso"
+
+disqusShortname = "alexdown"
+Paginate = 3
+
+[params]
+	sidebartitle = "852 tech"
+	sidebartagline = "Random ramblings about technology, fintech, mobile... anything that doesn't fit twitter's 140 characters."
+    sidebarphoto = "https://pbs.twimg.com/profile_images/1044507950277025797/CWYAv1sd_bigger.jpg"
+      themeColor = "theme-base-0b"
+      nopaging = false
+    gaid = "UA-72520783-1"
+
+[[menu.social]]
+	pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/alxdwn"
+    identifier = "twitter"
+
+[[menu.social]]
+	pre = "<i class='fa fa-linkedin'></i>"
+    url = "http://hk.linkedin.com/in/alessiobasso"
+    identifier = "linkedin"
+
+[[menu.social]]
+	pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/alexdown"
+    identifier = "github"
+
+

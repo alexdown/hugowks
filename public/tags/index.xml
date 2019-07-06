@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alessio Basso</title>
+    <link>http://alexdown.github.io/tags/</link>
+    <description>Recent content in Tags on Alessio Basso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alexdown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>API</title>
+      <link>http://alexdown.github.io/tags/api/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexdown.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contactless</title>
+      <link>http://alexdown.github.io/tags/contactless/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexdown.github.io/tags/contactless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>payments</title>
+      <link>http://alexdown.github.io/tags/payments/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexdown.github.io/tags/payments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>platform</title>
+      <link>http://alexdown.github.io/tags/platform/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexdown.github.io/tags/platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeChat</title>
+      <link>http://alexdown.github.io/tags/wechat/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexdown.github.io/tags/wechat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
