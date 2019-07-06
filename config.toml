@@ -14,6 +14,14 @@ Paginate = 3
       nopaging = false
     gaid = "UA-72520783-1"
 
+[[menu.main]]
+    name = "me"
+    url = "/profile"
+
+[[menu.main]]
+    name = "speaking"
+    url = "/speaking"
+
 [[menu.social]]
 	pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/alxdwn"
@@ -28,5 +36,3 @@ Paginate = 3
 	pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/alexdown"
     identifier = "github"
-
-
