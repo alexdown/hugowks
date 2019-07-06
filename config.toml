@@ -4,7 +4,7 @@ languageCode = "en-uk"
 title = "Alessio Basso"
 
 disqusShortname = "alexdown"
-Paginate = 3
+Paginate = 10
 
 [params]
 	sidebartitle = "852 tech"
