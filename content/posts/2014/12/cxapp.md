@@ -5,7 +5,7 @@ date = 2014-12-11T12:45:00Z
 +++
 
 <a name="aIntro"></a>
-Few days ago, <a href="http://www.cathaypacific.com">Cathay Pacific</a> released its new <a href="https://play.google.com/store/apps/details?id=com.xs2theworld.cxmobile&hl=en">mobile app</a>.
+Few days ago, <a href="https://www.cathaypacific.com">Cathay Pacific</a> released its new <a href="https://play.google.com/store/apps/details?id=com.xs2theworld.cxmobile&hl=en">mobile app</a>.
 
 I downloaded the android version, and gave it a try. TL;DR? It's better than it used to be, looks more modern, but there are a number of bugs still open, and questionable design chooices have been made. Here are a few comments.
 
