@@ -3,120 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//alessiobasso.com/</loc>
+    <loc>https://alessiobasso.com/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/mobile-banking/</loc>
+    <loc>https://alessiobasso.com/tags/mobile-banking/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/2016/12/neat/</loc>
+    <loc>https://alessiobasso.com/posts/2016/12/neat/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//alessiobasso.com/tags/review/</loc>
+    <loc>https://alessiobasso.com/posts/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/startup/</loc>
+    <loc>https://alessiobasso.com/tags/review/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/</loc>
+    <loc>https://alessiobasso.com/tags/startup/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/ui/</loc>
+    <loc>https://alessiobasso.com/tags/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/fintech/</loc>
+    <loc>https://alessiobasso.com/tags/ui/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/2016/01/better-octopus/</loc>
+    <loc>https://alessiobasso.com/tags/fintech/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/posts/2016/01/better-octopus/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/api/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//alessiobasso.com/tags/contactless/</loc>
+    <loc>https://alessiobasso.com/tags/api/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/payments/</loc>
+    <loc>https://alessiobasso.com/tags/contactless/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/platform/</loc>
+    <loc>https://alessiobasso.com/tags/payments/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/2015/12/debunking-wechat/</loc>
+    <loc>https://alessiobasso.com/tags/platform/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alessiobasso.com/posts/2015/12/debunking-wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/tags/wechat/</loc>
+    <loc>https://alessiobasso.com/tags/wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/2014/12/cxapp/</loc>
+    <loc>https://alessiobasso.com/posts/2014/12/cxapp/</loc>
     <lastmod>2014-12-11T12:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/2014/08/onlycoin/</loc>
+    <loc>https://alessiobasso.com/posts/2014/08/onlycoin/</loc>
     <lastmod>2014-08-24T14:40:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/ccwallet/</loc>
+    <loc>https://alessiobasso.com/posts/ccwallet/</loc>
     <lastmod>2013-12-01T03:55:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/posts/about/</loc>
+    <loc>https://alessiobasso.com/posts/about/</loc>
     <lastmod>2013-10-17T03:52:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//alessiobasso.com/categories/</loc>
+    <loc>https://alessiobasso.com/categories/</loc>
     <priority>0</priority>
   </url>
   
