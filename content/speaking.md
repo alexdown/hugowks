@@ -21,7 +21,7 @@ Right now it's:
 Internal company events, local meetups, regional or global conferences...
 
 ### How
-Just ask me via [email](mailto:me@alessiobasso.com) :)
+Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 
 ### History
 Some examples for which there is an online trail...
