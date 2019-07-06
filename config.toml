@@ -1,4 +1,4 @@
-baseurl = "http://alexdown.github.io/"
+baseurl = "https://alexdown.github.io"
 languageCode = "en-uk"
 
 title = "Alessio Basso"
@@ -16,12 +16,12 @@ Paginate = 3
 
 [[menu.social]]
 	pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/alxdwn"
+    url = "https://www.twitter.com/alxdwn"
     identifier = "twitter"
 
 [[menu.social]]
 	pre = "<i class='fa fa-linkedin'></i>"
-    url = "http://hk.linkedin.com/in/alessiobasso"
+    url = "https://hk.linkedin.com/in/alessiobasso"
     identifier = "linkedin"
 
 [[menu.social]]
