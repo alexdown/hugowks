@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessio Basso</title>
-    <link>https://alexdown.github.io/</link>
+    <link>/</link>
     <description>Recent content on Alessio Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://alexdown.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neat</title>
-      <link>https://alexdown.github.io/posts/2016/12/neat/</link>
+      <link>/posts/2016/12/neat/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2016/12/neat/</guid>
+      <guid>/posts/2016/12/neat/</guid>
       <description>I had a chance to participate to the first ever beta launch event for a new bank app, last week in Hong Kong. Pretty much like for the other challenger banks out there, there were drinks, pizza, the founders and team there to answer questions and help explore the app, and lots of interesting people willing to talk and share their idea of how a bank should look like.
 I don&amp;rsquo;t want to write another dull &amp;ldquo;unboxing&amp;rdquo; post explaining every single step/screen I went through, so here are the screenshots.</description>
     </item>
     
     <item>
       <title>A Better Octopus Card</title>
-      <link>https://alexdown.github.io/posts/2016/01/better-octopus/</link>
+      <link>/posts/2016/01/better-octopus/</link>
       <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2016/01/better-octopus/</guid>
+      <guid>/posts/2016/01/better-octopus/</guid>
       <description>Octopus card is, by all standards, a success story. Introduced in 1997 by a consortium of railway and bus companies, for transit ticketing purposes, it subsequently expanded to other payment usages (restaurants, parking, convenience stores) following Hong Kong Monetary Authority granting Octopus&amp;rsquo; operating company a deposit-taking license.
 Pretty much everywhere you go in Hong Kong, you can pay with Octopus. It&amp;rsquo;s as close as one can get to a cashless society utopia.</description>
     </item>
     
     <item>
       <title>Debunking WeChat</title>
-      <link>https://alexdown.github.io/posts/2015/12/debunking-wechat/</link>
+      <link>/posts/2015/12/debunking-wechat/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2015/12/debunking-wechat/</guid>
+      <guid>/posts/2015/12/debunking-wechat/</guid>
       <description>A no-frills description of what WeChat really is.
   I’ve been reading for a while articles about WeChat, a Chinese “mobile instant messaging cum social media” very popular in Mainland China (and not only).
 Most of them are a mix and match of:
@@ -45,10 +45,10 @@ Most of them are a mix and match of:
     
     <item>
       <title>Cathay Pacific, mobile app</title>
-      <link>https://alexdown.github.io/posts/2014/12/cxapp/</link>
+      <link>/posts/2014/12/cxapp/</link>
       <pubDate>Thu, 11 Dec 2014 12:45:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2014/12/cxapp/</guid>
+      <guid>/posts/2014/12/cxapp/</guid>
       <description>Few days ago, Cathay Pacific released its new mobile app.
 I downloaded the android version, and gave it a try. TL;DR? It&amp;rsquo;s better than it used to be, looks more modern, but there are a number of bugs still open, and questionable design chooices have been made. Here are a few comments.
  Two different loading spinners: why?
@@ -57,20 +57,20 @@ I downloaded the android version, and gave it a try. TL;DR? It&amp;rsquo;s bette
     
     <item>
       <title>Coin card, one year later</title>
-      <link>https://alexdown.github.io/posts/2014/08/onlycoin/</link>
+      <link>/posts/2014/08/onlycoin/</link>
       <pubDate>Sun, 24 Aug 2014 14:40:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2014/08/onlycoin/</guid>
+      <guid>/posts/2014/08/onlycoin/</guid>
       <description>One year after my first (and - so far - only) blog post about Coin, the company seems to be in trouble: backers are (rightfully) concerned about the product launch postponed for six months, and commentators ask what are the future plans for the product after its target market - the US - adopt EMV chip cards.
  It seems most of the backers are concerned about the future in regards to the rollout of chip cards in the US, but the FAQ on coin website don&amp;rsquo;t do much to address the concern, insisting it will work during US&amp;rsquo; EMV transition period and if it has a magnetic stripe.</description>
     </item>
     
     <item>
       <title>Credit cards and electronic wallet</title>
-      <link>https://alexdown.github.io/posts/ccwallet/</link>
+      <link>/posts/ccwallet/</link>
       <pubDate>Sun, 01 Dec 2013 03:55:45 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/ccwallet/</guid>
+      <guid>/posts/ccwallet/</guid>
       <description>I was watching this video the other day, and wondering about the convenience of the thing. Ideally, yes, it would be nice to have one card to rule them all, and say adios forever to fat wallets full of plastic.
 My first though after the foreseeable reaction to the video (that was, &amp;ldquo;COOL!&amp;rdquo;) was if this whole scheme is possible. As:
  the device shown in the video have only a magstripe; most cards nowadays use the chip in many jurisdictions, the rule is still &amp;ldquo;the merchant is not permitted to accept a credit card in the absence of the cardholder and without presentation of the credit card&amp;ldquo;; and this device - at the end - is a copy of a physical card.</description>
@@ -78,10 +78,10 @@ My first though after the foreseeable reaction to the video (that was, &amp;ldqu
     
     <item>
       <title>Welcome 852 tech</title>
-      <link>https://alexdown.github.io/posts/about/</link>
+      <link>/posts/about/</link>
       <pubDate>Thu, 17 Oct 2013 03:52:07 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/about/</guid>
+      <guid>/posts/about/</guid>
       <description>This is a tentative of a blog; I have no idea what when and how frequently I&amp;rsquo;ll update this space, but want to give it a try.
 Need to learn Jekyll first, so everything is postponed to the next time I&amp;rsquo;ll have a sufficiently long flight or a sufficiently boring layover.
 I am @alexdown on GitHub, @alxdwn on twitter.</description>

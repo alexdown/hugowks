@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>API on Alessio Basso</title>
-    <link>https://alexdown.github.io/tags/api/</link>
+    <link>/tags/api/</link>
     <description>Recent content in API on Alessio Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alexdown.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Better Octopus Card</title>
-      <link>https://alexdown.github.io/posts/2016/01/better-octopus/</link>
+      <link>/posts/2016/01/better-octopus/</link>
       <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2016/01/better-octopus/</guid>
+      <guid>/posts/2016/01/better-octopus/</guid>
       <description>Octopus card is, by all standards, a success story. Introduced in 1997 by a consortium of railway and bus companies, for transit ticketing purposes, it subsequently expanded to other payment usages (restaurants, parking, convenience stores) following Hong Kong Monetary Authority granting Octopus&amp;rsquo; operating company a deposit-taking license.
 Pretty much everywhere you go in Hong Kong, you can pay with Octopus. It&amp;rsquo;s as close as one can get to a cashless society utopia.</description>
     </item>
     
     <item>
       <title>Debunking WeChat</title>
-      <link>https://alexdown.github.io/posts/2015/12/debunking-wechat/</link>
+      <link>/posts/2015/12/debunking-wechat/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://alexdown.github.io/posts/2015/12/debunking-wechat/</guid>
+      <guid>/posts/2015/12/debunking-wechat/</guid>
       <description>A no-frills description of what WeChat really is.
   I’ve been reading for a while articles about WeChat, a Chinese “mobile instant messaging cum social media” very popular in Mainland China (and not only).
 Most of them are a mix and match of:

@@ -3,120 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alexdown.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/mobile-banking/</loc>
+    <loc>/tags/mobile-banking/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/2016/12/neat/</loc>
+    <loc>/posts/2016/12/neat/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexdown.github.io/tags/review/</loc>
+    <loc>/posts/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/startup/</loc>
+    <loc>/tags/review/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/</loc>
+    <loc>/tags/startup/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/ui/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/fintech/</loc>
+    <loc>/tags/ui/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/2016/01/better-octopus/</loc>
+    <loc>/tags/fintech/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2016/01/better-octopus/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/api/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexdown.github.io/tags/contactless/</loc>
+    <loc>/tags/api/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/payments/</loc>
+    <loc>/tags/contactless/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/platform/</loc>
+    <loc>/tags/payments/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/2015/12/debunking-wechat/</loc>
+    <loc>/tags/platform/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2015/12/debunking-wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/tags/wechat/</loc>
+    <loc>/tags/wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/2014/12/cxapp/</loc>
+    <loc>/posts/2014/12/cxapp/</loc>
     <lastmod>2014-12-11T12:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/2014/08/onlycoin/</loc>
+    <loc>/posts/2014/08/onlycoin/</loc>
     <lastmod>2014-08-24T14:40:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/ccwallet/</loc>
+    <loc>/posts/ccwallet/</loc>
     <lastmod>2013-12-01T03:55:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/posts/about/</loc>
+    <loc>/posts/about/</loc>
     <lastmod>2013-10-17T03:52:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexdown.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
