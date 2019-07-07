@@ -2,6 +2,7 @@
 draft = false
 title = "Coin card, one year later"
 date = 2014-08-24T14:40:00Z
+tags = [ "fintech", "review", "UI" ]
 +++
 
 <a name="aTRB"></a>

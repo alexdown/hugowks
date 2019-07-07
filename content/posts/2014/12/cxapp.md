@@ -2,6 +2,7 @@
 draft = false
 title = "Cathay Pacific, mobile app"
 date = 2014-12-11T12:45:00Z
+tags = [ "mobile", "review", "UI" ]
 +++
 
 <a name="aIntro"></a>

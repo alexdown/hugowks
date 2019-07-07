@@ -2,6 +2,7 @@
 draft = true
 title = "A Website's restyling"
 date = 2014-10-30T09:59:00Z
+tags = [ "mobile", "review", "UI" ]
 +++
 
 <a name="aIntro"></a>

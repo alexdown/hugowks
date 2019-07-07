@@ -131,19 +131,19 @@
   </url>
   
   <url>
-    <loc>/tags/fintench/</loc>
+    <loc>/tags/tencent/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fintech/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mobile/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tencent/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -188,12 +188,6 @@
   </url>
   
   <url>
-    <loc>/tags/review/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/startup/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -206,7 +200,7 @@
   </url>
   
   <url>
-    <loc>/tags/fintech/</loc>
+    <loc>/tags/review/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
