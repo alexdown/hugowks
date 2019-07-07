@@ -3,223 +3,223 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alessiobasso.com/</loc>
+    <loc>/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/speaking/</loc>
+    <loc>/speaking/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/</loc>
-    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/bio/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/me/</loc>
+    <loc>/tags/bio/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/profile/</loc>
+    <loc>/tags/me/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/speaker/</loc>
+    <loc>/tags/profile/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/speaking/</loc>
+    <loc>/tags/speaker/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/azure/</loc>
+    <loc>/tags/speaking/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/azure/</loc>
     <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/cloud/</loc>
+    <loc>/tags/cloud/</loc>
     <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/microsoft/</loc>
+    <loc>/tags/microsoft/</loc>
     <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2017/07/my-very-own-azure-saturday/</loc>
+    <loc>/posts/2017/07/my-very-own-azure-saturday/</loc>
     <lastmod>2017-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2017/05/banking-in-the-age-of-social-media/</loc>
+    <loc>/posts/2017/05/banking-in-the-age-of-social-media/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/china/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/digital-banking/</loc>
+    <loc>/tags/china/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/fintench/</loc>
+    <loc>/tags/digital-banking/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/mobile/</loc>
+    <loc>/tags/fintench/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/tencent/</loc>
+    <loc>/tags/mobile/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/profile/</loc>
+    <loc>/tags/tencent/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/profile/</loc>
     <lastmod>2017-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/api/</loc>
+    <loc>/tags/api/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2016/12/wechat-oneyearlater/</loc>
+    <loc>/posts/2016/12/wechat-oneyearlater/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/wechat/</loc>
-    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/platform/</loc>
+    <loc>/tags/wechat/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/mobile-banking/</loc>
+    <loc>/tags/platform/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mobile-banking/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2016/12/neat/</loc>
+    <loc>/posts/2016/12/neat/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/review/</loc>
-    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/startup/</loc>
+    <loc>/tags/review/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/ui/</loc>
+    <loc>/tags/startup/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/fintech/</loc>
+    <loc>/tags/ui/</loc>
     <lastmod>2016-12-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2016/01/better-octopus/</loc>
+    <loc>/tags/fintech/</loc>
+    <lastmod>2016-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2016/01/better-octopus/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/tags/contactless/</loc>
-    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alessiobasso.com/tags/payments/</loc>
+    <loc>/tags/contactless/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2015/12/debunking-wechat/</loc>
+    <loc>/tags/payments/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2015/12/debunking-wechat/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2014/12/cxapp/</loc>
+    <loc>/posts/2014/12/cxapp/</loc>
     <lastmod>2014-12-11T12:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/2014/08/onlycoin/</loc>
+    <loc>/posts/2014/08/onlycoin/</loc>
     <lastmod>2014-08-24T14:40:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/ccwallet/</loc>
+    <loc>/posts/ccwallet/</loc>
     <lastmod>2013-12-01T03:55:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/posts/about/</loc>
+    <loc>/posts/about/</loc>
     <lastmod>2013-10-17T03:52:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alessiobasso.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
