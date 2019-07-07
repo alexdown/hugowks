@@ -11,7 +11,7 @@ git add .
 git add -A
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rebuilding site `date` - $0"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
