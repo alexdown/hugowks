@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Alessio Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>agile</title>
       <link>/tags/agile/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/agile/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>architecture</title>
       <link>/tags/architecture/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolutionary</title>
+      <link>/tags/evolutionary/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mva</title>
+      <link>/tags/mva/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mvp</title>
+      <link>/tags/mvp/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mvp/</guid>
       <description></description>
     </item>
     
@@ -39,38 +66,11 @@
     </item>
     
     <item>
-      <title>evolutionary</title>
-      <link>/tags/evolutionary/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolutionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>me</title>
       <link>/tags/me/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mva</title>
-      <link>/tags/mva/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mvp</title>
-      <link>/tags/mvp/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mvp/</guid>
       <description></description>
     </item>
     

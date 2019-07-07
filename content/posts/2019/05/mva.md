@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Miminum Viable Architecture: The intersection between the Enterprise Architecture and Agile Development"
-date: 2017-07-31
+date: 2019-05-06
 tags: [ "architecture", "agile", "mva", "mvp", "evolutionary"]
 notoc: false
 nopaging: false

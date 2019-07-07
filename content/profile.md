@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Who am I?"
-date: 2017-02-07
+date: 2017-07-31
 tags: [ "profile", "me", "bio"]
 notoc: true
 nopaging: true

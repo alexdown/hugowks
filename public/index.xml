@@ -6,7 +6,7 @@
     <description>Recent content on Alessio Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Miminum Viable Architecture: The intersection between the Enterprise Architecture and Agile Development</title>
       <link>/posts/2019/05/mva/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/2019/05/mva/</guid>
       <description>Context There were times (and till to date) when we build grand enterprise architectures with capabilities and alternatives for each: from business to technical to infrastructure viewpoints, followed by year long development cycles. While the adoption of agile (any flavor of agile) has changed the way we think about development and start delivering incremental value, the architecture itself has either been ignored (“agile don’t need upfront architecture!”), or continues to follow a waterfall development.</description>
@@ -32,6 +32,16 @@ Right now it&amp;rsquo;s:
 How Just ask me via email :)
 History Some examples for which there is an online trail&amp;hellip;
  July 2019, Microsoft Mechanics - &amp;ldquo;How we built it? PayMe from HSBC&amp;rdquo; (video)</description>
+    </item>
+    
+    <item>
+      <title>Who am I?</title>
+      <link>/profile/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/profile/</guid>
+      <description>Who am I Alessio is the Chief Architect and CTO of PayMe from HSBC, a Social Payments app for the Hong Kong market.
+Prior to that, as Lead Solution Architect - Mobile Payments, he worked with OEM partners on Apple Pay, Samsung Pay, HCE wallets, as well as on innovation projects involving chatbots, facial recognition, transaction data and social media (WeChat, Facebook messenger) integration, mostly focussing on the Pearl River Delta/Greater China market.</description>
     </item>
     
     <item>
@@ -55,16 +65,6 @@ couldn&amp;#39;t be in London yesterday, so watching @Azure demo by @scottgu tod
       <description>I happened to be in Guangzhou last week, and attending an interesting round table discussion during a banking technology event.
 One of the guests was from WeBank, sharing his experience working in a technology company that happens to hold a banking license in China.
 He shared the fact that they started as a technology company even before they had the license, developing a banking platform that is now used by 8 local banks in China in a BaaS (Banking as a Service) model.</description>
-    </item>
-    
-    <item>
-      <title>Who am I?</title>
-      <link>/profile/</link>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/profile/</guid>
-      <description>Who am I Alessio is the Chief Architect and CTO of PayMe from HSBC, a Social Payments app for the Hong Kong market.
-Prior to that, as Lead Solution Architect - Mobile Payments, he worked with OEM partners on Apple Pay, Samsung Pay, HCE wallets, as well as on innovation projects involving chatbots, facial recognition, transaction data and social media (WeChat, Facebook messenger) integration, mostly focussing on the Pearl River Delta/Greater China market.</description>
     </item>
     
     <item>
