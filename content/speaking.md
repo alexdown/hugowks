@@ -26,24 +26,24 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### History
 Some examples for which there is an online trail...
 
-* July 2019, Microsoft Mechanics - "How we built it? PayMe from HSBC" [(video)](https://)
+* July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://)"
 
 * June 2019, HSBC India Cloud Days (Pune) – "Developing Cloud Native Applications”
 
-* May 2019, Microsoft //Build 2019 - "Build Scalable Cloud Native apps using MySQL" [(video)](https://mybuild.techcommunity.microsoft.com/sessions/76989)
+* May 2019, Microsoft //Build 2019 - "[Build Scalable Cloud Native apps using MySQL](https://mybuild.techcommunity.microsoft.com/sessions/76989)"
 
 * February 2019, HSBC China  Architecture Symposium (Guangzhou) – "Beyond Payments”
 
 * October 2018, HSBC Asia Pacific Architecture Symposium – “Tales of a Scrum Architect”
  
-* August 2018, The Open Group China event (Beijing), “Digital Transformation for the Enterprise and for People” – “A Journey to the cloud – Lesson learned migrating payment applications to the cloud”
+* August 2018, The Open Group China event (Beijing), “[Digital Transformation for the Enterprise and for People](http://www.opengroup.org.cn/index.php/event/shuzihuashidaiqiyebiangeyurencaizhuanxing)” – “A Journey to the cloud – Lesson learned migrating payment applications to the cloud”
 
 * April 2018, HSBC Asia Pacific Tech Talks – “First deployment of a critical system on cloud – PayMe on MS Azure”
 
-* December 2017, Hong Kong Computer Society EASIG Seminar – "A journey to the Cloud"
+* December 2017, [Hong Kong Computer Society EASIG Seminar](http://www.hkcs.org.hk/event/enterprise-architecture-sig-half-day-seminar/) – "A journey to the Cloud"
 
 * August 2017, Mobeyforum Banking Disruption WG – “Disruptions from China: Alipay and WeChat Pay”
 
-* December 2016, HK Developer Meetup – “codeaholics” – “Let’s chat about WeChat… a year later” [(deck)](https://speakerdeck.com/alexdown/lets-chat-about-wechat-dot-dot-dot-one-year-later)
+* December 2016, HK Developer Meetup – “codeaholics” – “[Let’s chat about WeChat… a year later](https://speakerdeck.com/alexdown/lets-chat-about-wechat-dot-dot-dot-one-year-later)"
 
-* April 2016, HK Developer Meetup – “codeaholics” – “Let’s chat about WeChat” [(deck)](https://speakerdeck.com/alexdown/lets-chat-about-wechat)
+* April 2016, HK Developer Meetup – “codeaholics” – “[Let’s chat about WeChat](https://speakerdeck.com/alexdown/lets-chat-about-wechat)"

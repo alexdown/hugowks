@@ -7,6 +7,7 @@ notoc: false
 nopaging: false
 ---
 
+
 ## Context
 
 There were times (and till to date) when we build grand enterprise architectures with capabilities and alternatives for each: from business to technical to infrastructure viewpoints, followed by year long development cycles. While the adoption of agile (any flavor of agile) has changed the way we think about development and start delivering incremental value, the architecture itself has either been ignored (“agile don’t need upfront architecture!”), or continues to follow a waterfall development.
