@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "Book review: Failure is not an option (Gene Kranz)"
-date: 2019-07-09
+date: 2019-07-14
 tags: [ "architecture", "agile", "teams", "competence"]
 notoc: false
 nopaging: false
