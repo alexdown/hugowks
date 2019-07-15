@@ -28,7 +28,7 @@ Some examples for which there is an online trail...
 
 * July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://)"
 
-* July 2019, South China University of Technology [Financial Technology Summer Camp](https://mp.weixin.qq.com/s/pZCcmhqm7RWPcby9-Q0cyg) (Guangzhou) - Guest Lecturer
+* July 2019, South China University of Technology [Financial Technology Summer Camp](https://mp.weixin.qq.com/s/D1mrqjgGj_qH39BHTRrglw) (Guangzhou) - Guest Lecturer
 
 * June 2019, HSBC India Cloud Days (Pune) – "Developing Cloud Native Applications”
 
