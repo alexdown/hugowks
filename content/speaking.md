@@ -26,7 +26,7 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### History
 Some examples for which there is an online trail...
 
-* July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://youtu.be/KEYqG0IcUy8)"
+* July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://youtu.be/KEYqG0IcUy8)" ([blog post](https://azure.microsoft.com/en-us/blog/how-hsbc-built-its-payme-for-business-app-on-microsoft-azure/))
 
 * July 2019, South China University of Technology [Financial Technology Summer Camp](https://mp.weixin.qq.com/s/D1mrqjgGj_qH39BHTRrglw) (Guangzhou) - Guest Lecturer
 
