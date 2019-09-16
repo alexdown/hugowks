@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Latency vs. Response time"
 date = 2014-09-12T03:56:00Z
 +++
