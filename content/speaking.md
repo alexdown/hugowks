@@ -26,6 +26,8 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### History
 Some examples for which there is an online trail...
 
+* October 2019, Spark+AI Summit Europe - "Keynote: [Reinventing Payments at HSBC with a Unified Platform for Data and AI in the Cloud](https://databricks.com/session_eu19/3-reinventing-payments-at-hsbc-with-a-unified-platform-for-data-and-ai-in-the-cloud)"
+
 * July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://youtu.be/KEYqG0IcUy8)" ([blog post](https://azure.microsoft.com/en-us/blog/how-hsbc-built-its-payme-for-business-app-on-microsoft-azure/))
 
 * July 2019, South China University of Technology [Financial Technology Summer Camp](https://mp.weixin.qq.com/s/D1mrqjgGj_qH39BHTRrglw) (Guangzhou) - Guest Lecturer
