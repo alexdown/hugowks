@@ -26,6 +26,8 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
+* December 2019, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Agility and Governance in Digital Age – "Tales of a Scrum Architect"
+
 * November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
 
 * November 2019, HSBC Cloud Days (Guangzhou) – "Developing Cloud Native Applications”
