@@ -23,10 +23,17 @@ Internal company events, local meetups, regional or global conferences...
 ### How
 Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 
+### Upcoming
+Stop by if you are around!
+
+* November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
+
+* November 2019, HSBC Cloud Days (Guangzhou) – "Developing Cloud Native Applications”
+
 ### History
 Some examples for which there is an online trail...
 
-* October 2019, Spark+AI Summit Europe - "Keynote: [Reinventing Payments at HSBC with a Unified Platform for Data and AI in the Cloud](https://databricks.com/sparkaisummit/europe/spark-summit-2019-keynotes-2#reinventing)" ([youtube](https://www.youtube.com/watch?v=F7P5oi7AOCw))
+* October 2019, [Spark+AI Summit Europe](https://databricks.com/sparkaisummit/europe) - "Keynote: [Reinventing Payments at HSBC with a Unified Platform for Data and AI in the Cloud](https://databricks.com/sparkaisummit/europe/spark-summit-2019-keynotes-2#reinventing)" ([youtube](https://www.youtube.com/watch?v=F7P5oi7AOCw))
 
 * July 2019, Microsoft Mechanics - "[How we built it? PayMe from HSBC](https://youtu.be/KEYqG0IcUy8)" ([blog post](https://azure.microsoft.com/en-us/blog/how-hsbc-built-its-payme-for-business-app-on-microsoft-azure/))
 
@@ -34,7 +41,7 @@ Some examples for which there is an online trail...
 
 * June 2019, HSBC India Cloud Days (Pune) – "Developing Cloud Native Applications”
 
-* May 2019, Microsoft //Build 2019 - "[Build Scalable Cloud Native apps using MySQL](https://mybuild.techcommunity.microsoft.com/sessions/76989)"
+* May 2019, Microsoft [//Build](https://news.microsoft.com/build2019/) - "[Build Scalable Cloud Native apps using MySQL](https://mybuild.techcommunity.microsoft.com/sessions/76989)"
 
 * February 2019, HSBC China  Architecture Symposium (Guangzhou) – "Beyond Payments”
 
