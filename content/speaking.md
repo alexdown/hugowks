@@ -30,7 +30,7 @@ Stop by if you are around!
 
 * November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
 
-* November 2019, HSBC Cloud Days (Guangzhou) – "Developing Cloud Native Applications”
+* November 2019, HSBC Cloud Days (Hong Kong) – "Developing Cloud Native Applications”
 
 ### History
 Some examples for which there is an online trail...
