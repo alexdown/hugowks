@@ -28,12 +28,10 @@ Stop by if you are around!
 
 * December 2019, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Agility and Governance in Digital Age – "Tales of a Scrum Architect"
 
-* November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
-
-* November 2019, HSBC Cloud Days (Hong Kong) – "Developing Cloud Native Applications”
-
 ### History
 Some examples for which there is an online trail...
+
+* November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
 
 * October 2019, [Spark+AI Summit Europe](https://databricks.com/sparkaisummit/europe) - "Keynote: [Reinventing Payments at HSBC with a Unified Platform for Data and AI in the Cloud](https://databricks.com/sparkaisummit/europe/spark-summit-2019-keynotes-2#reinventing)" ([youtube](https://www.youtube.com/watch?v=F7P5oi7AOCw))
 
