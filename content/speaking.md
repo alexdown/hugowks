@@ -26,7 +26,7 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
-* December 2019, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Agility and Governance in Digital Age – "Tales of a Scrum Architect"
+* May 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
 
 ### History
 Some examples for which there is an online trail...
