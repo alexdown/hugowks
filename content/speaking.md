@@ -28,6 +28,8 @@ Stop by if you are around!
 
 * May 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
 
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com)"
+
 ### History
 Some examples for which there is an online trail...
 
