@@ -55,7 +55,7 @@ Some examples for which there is an online trail...
 
 * December 2017, [Hong Kong Computer Society EASIG Seminar](http://www.hkcs.org.hk/event/enterprise-architecture-sig-half-day-seminar/) – "A journey to the Cloud"
 
-* August 2017, Mobeyforum Banking Disruption WG – “Disruptions from China: Alipay and WeChat Pay”
+* August 2017, Mobeyforum Banking Disruption WG – "Disruptors from China: Alipay and WeChat Pay”
 
 * December 2016, HK Developer Meetup – “codeaholics” – “[Let’s chat about WeChat… a year later](https://speakerdeck.com/alexdown/lets-chat-about-wechat-dot-dot-dot-one-year-later)"
 
