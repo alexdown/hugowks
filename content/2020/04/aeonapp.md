@@ -12,8 +12,6 @@ One thing I **don't** like is queuing up at the cashier, which usually is a long
 
 So I was very pleased to find out about a feature in the mobile app of a known supermarket chain in Hong Kong.
 
-### The killer feature
-
 The AEON app is not a modern app, by all means. Not particularly curated graphically, a bit cumbersome in the navigation... it has a killer feature hidden in it: **POS Express**.
 
 <div align="center">
@@ -27,7 +25,7 @@ First, you need to tell the app where you are. It can recognise it almost automa
 	<img src="/aeonapp13.jpg" style="display: inline;" width="30%" />
 </div>
 
-### Shop
+# Shop
 
 After that, you're all set with a personal shopping cart. All you have to do is scan the barcode on each product you pick, confirm the quantity, before putting it in your bag... the cart gets populated as you go, similar to an online shopping cart.
 
@@ -46,8 +44,7 @@ Lesson learned... better in-store wifi, and beef up those servers!
 	<img src="/aeonapp12.jpg" style="display: inline;" width="30%" />
 </div>
 
-
-### Checkout
+# Checkout
 
 When you're done with your shopping, and all your grocery are already bagged and ready to go, you can tap on the "checkout" button (the cart icon), confirm the order, and you are presented with a number of e-payments options:
 
@@ -65,18 +62,18 @@ You select one (in my case, I chose one of the e-wallets options, so I am being 
 </div>
 
 
-### e-Receipts?
+## e-Receipts?
 
 Although one can pay online, there is always the option to go to the self-checkout counters (the "In-store payment" option), scan a QR code from the app (identifying your shopping cart), and pay using all payments methods available in store (on top of all cards that you can use online, just Octopus card).
 
 I am sure one could just walk out of the door with its grocery after paying online, and be all set, and the payment confirmation screen looks a lot like a valid receipt... <br />
 ...but you may want to drop by the self-service kiosks and print that paper receipt just in case, because...
 
-### Even better if
+## Even better if
 
 Not all departments cash registers are linked up with the new app. If I buy anything in the non-supermarket area and want to exchange/refund, I have to go to the service center and get a printed receipt first. Most cash register in the store can't recognize/scan the barcode of the in-app "receipt", and the staff claims that what I see in the app screen is not a valid receipt. Maybe just a staff training issue, perhaps? Something to look into.
 
-### In summary
+# In summary
 
 Absolutely killer feature inside an otherwise unassuming app! <br />
 I love that I can just shop at my own pace, and when I'm done, pay with a couple of clicks on my way out, without having to queue. <br />
