@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Great retail experience"
-date: 2020-04-05
+date: 2020-04-11
 tags: [ "mobile", "review", "app", "UI"]
 notoc: false
 nopaging: false
