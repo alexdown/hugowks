@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Great retail experience"
+title: "AEON POS Express app"
 date: 2020-04-11
 tags: [ "mobile", "review", "app", "UI"]
 notoc: false
