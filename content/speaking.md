@@ -43,7 +43,7 @@ Some examples for which there is an online trail...
 
 * June 2019, HSBC India Cloud Days (Pune) – "Developing Cloud Native Applications”
 
-* May 2019, Microsoft [//Build](https://news.microsoft.com/build2019/) - "[Build Scalable Cloud Native apps using MySQL](https://mybuild.techcommunity.microsoft.com/sessions/76989)"
+* May 2019, Microsoft [//Build](https://azure.microsoft.com/en-us/resources/videos/build-2019-build-cloud-native-apps-using-mysql-that-scale-to-500-million-transactions-a-day-on-azure/) - "[Build Scalable Cloud Native apps using MySQL](https://mybuild.techcommunity.microsoft.com/sessions/76989)" ([YouTube](https://www.youtube.com/watch?v=q5VUQIT0aNU))
 
 * February 2019, HSBC China  Architecture Symposium (Guangzhou) – "Beyond Payments”
 
