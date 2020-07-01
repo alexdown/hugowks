@@ -26,12 +26,12 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
-* May 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/4143594079434B584279454359/40?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
-
-* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com)"
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com/speakers)"
 
 ### History
 Some examples for which there is an online trail...
+
+* June 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/41435B4B7647425D4379474659/424B5A4A7746465A437342425F43?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
 
 * November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
 
