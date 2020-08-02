@@ -52,7 +52,10 @@ The playbook to do so was:
 1. **address the right value network with the right product** - sell a product that is good enough (not more, but less is ok at the beginning) at a price that customers are willing to pay for. _These may not be your existing customers!! (they usually aren't)_.  
 Do a lot to stakeholder management to ease their fears of cannibalization.
 2. **do it in a smaller organization** - a department or a spin off, but small enough that people are incentivized to pursue opportunities that are too small for the parent company.
-    - **be independent** from the main org when it comes to resource allocation - you don't want to get into the yearly budget cycle, competing for funding with other projects that, by definition, align more closely to what the parent org perceive as "bringing value" 
+    - **be independent** from the main org when it comes to resource allocation - you don't want to get into the yearly budget cycle, competing for funding with other projects that, by definition, align more closely to what the parent org perceive as "bringing value".
+    As the author clearly explains:
+    
+    > I want my organization's _customers_ to answer the question of whether we should be in the business. I don't want to spend my precious managerial energy constantly defending our existence to efficiency analysts in the mainstream. 
 3. **iterate** - this doesn't require explanation... release MVP, iterate quickly. Your initial idea on what the market will pay for is most likely wrong.
 4. **use the _resources_ of the main org, but DO NOT leverage its processes** - for two reasons:
     - processes are by nature inflexible... their attributes are consistency and repeatability. When you're searching for a new market, you need flexibility. Create your own processes, only the one you need.
