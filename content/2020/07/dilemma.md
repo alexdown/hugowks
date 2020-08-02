@@ -1,6 +1,6 @@
 ---
-draft: true
-title: "Book review: The Innovator's dilemma"
+draft: false
+title: "Book review: The Innovator's Dilemma"
 date: 2020-07-07
 tags: [ "architecture", "strategy", "corporate", "innovation"]
 notoc: false
@@ -9,12 +9,13 @@ nopaging: false
 
 I thought I'd share about a book I just finished reading... which I found memorable mainly because it provides a simple framework to understand what - at first look - seems to all of us working in big companies just corporate politics against common sense.
 
-The book is "The Innovator's Dilemma", by Clayton Christensen.
+The book is "[The Innovator's Dilemma](https://books.google.ca/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)", by Clayton Christensen.
 
 <script type="text/javascript" src="//books.google.com/books/previewlib.js"></script>
 <script type="text/javascript">
-GBS_insertEmbeddedViewer('ISBN:0875845851',600,500);
+GBS_insertEmbeddedViewer('ISBN:0875845851',300,480);
 </script> 
+
 <br/>
 
 ## What about it? 
