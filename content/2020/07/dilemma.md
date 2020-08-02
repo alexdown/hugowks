@@ -56,7 +56,8 @@ Do a lot to stakeholder management to ease their fears of cannibalization.
     As the author clearly explains:
     
     > I want my organization's _customers_ to answer the question of whether we should be in the business. I don't want to spend my precious managerial energy constantly defending our existence to efficiency analysts in the mainstream. 
-3. **iterate** - this doesn't require explanation... release MVP, iterate quickly. Your initial idea on what the market will pay for is most likely wrong.
+3. **iterate** - this doesn't require explanation... release MVP, iterate quickly.  
+Your initial idea on what the market will pay for is most likely wrong... hence, _any business plan you create should be plan for learning_ rather than plan for executing a preconceived strategy.
 4. **use the _resources_ of the main org, but DO NOT leverage its processes** - for two reasons:
     - processes are by nature inflexible... their attributes are consistency and repeatability. When you're searching for a new market, you need flexibility. Create your own processes, only the one you need.
     - processes come with cost (resources, time) to implement them... and they mold a way of working, which soon become company culture. This risk bringin over attributes from the parent org that you _don't want_ in the spinoff, like risk aversion.
