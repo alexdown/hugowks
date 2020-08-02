@@ -8,7 +8,7 @@ nopaging: true
 ---
 
 ### Who am I
-Alessio is the Chief Architect and CTO of PayMe from HSBC, a Social Payments app for the Hong Kong market. 
+Alessio is the Chief Architect and CTO of [PayMe from HSBC](https://payme.hsbc.com.hk/), a Social Payments app for the Hong Kong market. 
 
 Prior to that, as Lead Solution Architect - Mobile Payments, he worked with OEM partners on Apple Pay, Samsung Pay, HCE wallets, as well as on innovation projects involving chatbots, facial recognition, transaction data and social media (WeChat, Facebook messenger) integration, mostly focussing on the Pearl River Delta/Greater China market. 
 
