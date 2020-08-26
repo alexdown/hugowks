@@ -26,7 +26,7 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
-* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com/speakers)"
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com/speakers/alessio-basso)"
 
 ### History
 Some examples for which there is an online trail...
@@ -34,6 +34,8 @@ Some examples for which there is an online trail...
 * June 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/41435B4B7647425D4379474659/424B5A4A7746465A437342425F43?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
 
 * June 2020, South China University of Technology Financial Technology Summer Camp (Guangzhou) - Guest Lecturer
+
+* April 2020, [Cloud and scaling successful products](https://www.cloudexpoasiahk.com/latest-news/expert-interview-payme-for-business)
 
 * November 2019, Raiffeisenbank International CRM Summit (Vienna) - Guest Speaker 
 
