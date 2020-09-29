@@ -26,10 +26,14 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
-* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com) – "[Creating and growing an API ecosystem](https://www.cloudexpoasiahk.com/speakers/alessio-basso)"
+* October 2020, [Databricks Industry Leadership Forum - Financial Services](https://databricks.com/p/webinar/na-data-ai-tour-industry-leadership-forum) – Keynote
 
 ### History
 Some examples for which there is an online trail...
+
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Creating and growing an API ecosystem](https://www.linkedin.com/feed/update/urn:li:activity:6714347554022141952/)"
+
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Roundtable: future of m-commerce](https://www.youtube.com/watch?v=L4G39c--OxA&feature=youtu.be)"
 
 * June 2020, [Hong Kong Computer Society EASIG Seminar](https://www.anpasia.com/newsletterweb/41435B4B7647425D4379474659/424B5A4A7746465A437342425F43?noTracking=true) Architecting and Managing API – "Creating and growing an API ecosystem"
 
