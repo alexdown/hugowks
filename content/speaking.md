@@ -31,7 +31,7 @@ Stop by if you are around!
 ### History
 Some examples for which there is an online trail...
 
-* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Creating and growing an API ecosystem](https://www.linkedin.com/feed/update/urn:li:activity:6714347554022141952/)"
+* ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Creating and growing an API ecosystem](https://www.youtube.com/watch?v=oLz_yHGbThI&feature=youtu.be)"
 
 * ~~May~~ September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Roundtable: future of m-commerce](https://www.youtube.com/watch?v=L4G39c--OxA&feature=youtu.be)"
 
