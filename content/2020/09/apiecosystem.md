@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Building an API ecosystem"
 date: 2020-09-23
 tags: [ "architecture", "cloud", "product", "platform", "partnership", "API"]

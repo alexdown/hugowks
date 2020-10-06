@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Thoughts about migrating clouds and data gravity"
-date: 2020-07-01
+date: 2020-10-11
 tags: [ "architecture", "cloud", "data"]
 notoc: false
 nopaging: false
