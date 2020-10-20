@@ -69,7 +69,7 @@ The JWT token has a certain validity, so that the API consumer can make many cal
 When the JWT token expires, a new JWT token must be obtained again from the `/token` endpoint.
 
 <div align="center">
-	<img src="/2020/09/payme-api-calls000.png" style="display: inline;" width="80%" alt="How to call PayMe OpenAPI"/>
+	<img src="/2020/09/payme-api-calls.png" style="display: inline;" width="80%" alt="How to call PayMe OpenAPI"/>
 </div>
 
 Because of this design, we expected to receive many more calls to the `/payments` endpoint than we expected to see on the `/token` endpoint.  
