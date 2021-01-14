@@ -11,10 +11,11 @@ nopaging: true
 I usually talk about technology topics, usually whatever interests me at the time.  
 Right now it's: 
 
-- mobile payments
-- online payments
-- digital wallets
-- cloud (specifically monitoring and alerting)
+- online payments, mobile payments, digital wallets
+- payment applications scalability challenges
+- cloud data architecture
+- cloud monitoring and alerting
+- enterprise cloud adoption
 - china tech
 
 ### Where
@@ -26,10 +27,10 @@ Just ask me via [email](mailto:alessio.basso@gmail.com) :)
 ### Upcoming
 Stop by if you are around!
 
-* October 2020, [Databricks Industry Leadership Forum - Financial Services](https://databricks.com/p/webinar/na-data-ai-tour-industry-leadership-forum) – Keynote
-
 ### History
 Some examples for which there is an [online trail](https://www.youtube.com/playlist?list=PL5E5eDj2cPFV9D_kDUydrZBTEFRMZIfGC)...
+
+* October 2020, [Databricks Industry Leadership Forum - Financial Services](https://databricks.com/p/webinar/na-data-ai-tour-industry-leadership-forum) – Keynote
 
 * September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Creating and growing an API ecosystem](https://www.youtube.com/watch?v=oLz_yHGbThI&feature=youtu.be)"
 
