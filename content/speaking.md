@@ -30,6 +30,8 @@ Stop by if you are around!
 ### History
 Some examples for which there is an [online trail](https://www.youtube.com/playlist?list=PL5E5eDj2cPFV9D_kDUydrZBTEFRMZIfGC)...
 
+* September 2021, AWS Industry Solution Days Indonesia (Financial Services) –"Leveraging IoT and AI/ML for Fraud Detection and Digital Payment Development" (Keynote)
+
 * October 2020, [Databricks Industry Leadership Forum - Financial Services](https://databricks.com/p/webinar/na-data-ai-tour-industry-leadership-forum) – Keynote
 
 * September 2020, [Cloud Expo Asia](https://www.cloudexpoasiahk.com/speakers/alessio-basso) – "[Creating and growing an API ecosystem](https://www.youtube.com/watch?v=oLz_yHGbThI&feature=youtu.be)"
