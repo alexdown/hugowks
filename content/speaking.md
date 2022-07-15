@@ -30,13 +30,13 @@ Stop by if you are around!
 ### History
 Some examples for which there is an [online trail](https://www.youtube.com/playlist?list=PL5E5eDj2cPFV9D_kDUydrZBTEFRMZIfGC)...
 
-* August 2022, [#web3week]()
+* August 2022, [#web3week CTO roundtable](https://www.eventbrite.com/e/web3week-with-aws-cxo-roundtables-tickets-383391904507)
 
 * June 2022, [TechInAsia Fintech Forum](https://www.eventbrite.sg/e/fintech-forum-tickets-352473025307)
 
 * June 2022, Central Bank of Buthan ExCo - "Modern Banking State of the Union" 
 
-* May 2022, AWS ASEAN Summit - "[The Promises of DeFi](https://aws.amazon.com/events/summits/asean/)" (200 session - Emerging Technologies track)
+* May 2022, AWS ASEAN Summit - "[The Promises of DeFi](https://aws.amazon.com/events/summits/asean/)"
 
 * September 2021, AWS Industry Solution Days Indonesia (Financial Services) – "Leveraging IoT and AI/ML for Fraud Detection and Digital Payment Development" (Keynote)
 
